@@ -3,8 +3,8 @@
 ### My .ssh/config file
 #### Explanation
 I first followed a series of steps to set up the config file on my computer. I then edited the config file to change the alias to ieng6. 
-![Image](config file.png)
-![Image](create config.png)
+![Image](configFile.png)
+![Image](createConfig.png)
 
 
 ### Log in with alias name 
