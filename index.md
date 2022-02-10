@@ -8,9 +8,9 @@ I first followed a series of steps to set up the config file on my computer. I t
 
 
 ### Log in with alias name 
-I then use the command 'ssh ieng6' to log onto the remote server with the simplified alias 
+I then use the command `ssh ieng6`to log onto the remote server with the simplified alias 
 ![Image](login.png)
 
 ### scp command using alias name 
-I then use the command 'scp -r *.java *.md lib/ ieng6:markdown-parse'to copy files onto the remote server using just the alias ieng6
+I then use the command `scp -r *.java *.md lib/ ieng6:markdown-parse`to copy files onto the remote server using just the alias ieng6
 ![Image](scp.png)
